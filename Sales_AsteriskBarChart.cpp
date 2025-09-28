@@ -1,7 +1,6 @@
 // Name: Jagger Pulling
 // Program Status: Complete
-// Description: This program allows the user to select either air, water or steel.
-// This program asks the user to enter daily sales for three stores and displays a bar chart
+// Description: This program asks the user to enter daily sales for three stores and displays a bar chart
 // using asterisks. Each asterisk represents $100 of sales, rounded to the nearest $100.
 
 #include <iostream>
