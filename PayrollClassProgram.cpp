@@ -1,6 +1,7 @@
 // Name: Jagger Pulling
 // Program Status: Complete
 // Description: This program takes file data and calculates gross pay using hourly pay and hours worked, then displays in a table.
+// Requires file to run
 
 #include <iostream>
 #include <iomanip>
