@@ -1,7 +1,7 @@
 // Name: Jagger Pulling
 // Program Status: Complete
-// Description: This program displays a day of the week
-// depending on which number value is input
+// Description: This program sorts two arrays (one even and one odd)
+// then prints the contents and finds median using pointer notation
 
 #include <iomanip>
 #include <iostream>
